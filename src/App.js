@@ -12,6 +12,7 @@ function App() {
     <br />
     <img src={Img1} height="100" width="100" />
     <br />
+    <br />
     <img src="/imageInPublic.jpg" height="100" width="100"/>
   </div>
   <video width={320} height={240} controls>
